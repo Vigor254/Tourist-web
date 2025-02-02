@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
     --primary: #1429b6;
-    --secondary: #FE8800;
+    --secondary: #fe0072;
     --light: #F5F5F5;
-    --dark: #14141F;
+    --dark: rgba(239, 12, 157, 0.49);
 }
 
 .fw-medium {
@@ -47,7 +47,7 @@
 
 .btn.btn-primary,
 .btn.btn-secondary {
-    color: #FFFFFF;
+    color: rgba(254, 0, 59, 0.75);
 }
 
 .btn-square {
@@ -400,7 +400,7 @@
     margin-bottom: 5px;
     padding: 0;
     text-align: left;
-    color: #FFFFFF;
+    color: purple;
     font-size: 15px;
     font-weight: normal;
     text-transform: capitalize;
